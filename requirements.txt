@@ -10,11 +10,9 @@ branca==0.7.2
 cachetools==5.3.3
 certifi==2024.6.2
 chardet==5.2.0
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
 click==8.1.7
 colorama==0.4.6
 cryptography==42.0.8
-cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
 Cython==3.0.10
 dnspython==2.6.1
 filelock==3.15.4
@@ -30,27 +28,20 @@ google-auth-oauthlib==1.0.0
 google-crc32c==1.5.0
 google-pasta==0.2.0
 grpcio==1.64.1
-h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1634280454336/work
 h5py==3.11.0
 hpack==4.0.0
-hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1619110129307/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1713279365350/work
 ifaddr==0.2.0
 importlib_metadata==8.0.0
-importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1711040877059/work
 intel-openmp==2021.4.0
 Jinja2==3.1.4
 joblib==1.4.2
-jplephem @ file:///home/conda/feedstock_root/build_artifacts/jplephem_1701439151942/work
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
 keras==2.13.1
-kiwisolver @ file:///D:/bld/kiwisolver_1695380176938/work
 libclang==18.1.1
 Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
-matplotlib @ file:///D:/bld/matplotlib-suite_1695077059522/work
 mdurl==0.1.2
 mkl==2021.4.0
 mpmath==1.3.0
@@ -61,45 +52,28 @@ oauthlib==3.2.2
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
 opt-einsum==3.3.0
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
 pandas==2.0.3
-Pillow @ file:///D:/bld/pillow_1688256117776/work
 pkgutil_resolve_name==1.3.10
-platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1715777629804/work
 plotly==5.22.0
-pooch @ file:///home/conda/feedstock_root/build_artifacts/pooch_1717777836653/work
 protobuf==4.25.3
 psutil==6.0.0
 py-cpuinfo==9.0.0
 pyarrow==16.1.0
 pyasn1==0.6.0
 pyasn1_modules==0.4.0
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1711811537435/work
 pydeck==0.9.1
 pyee==11.1.0
 Pygments==2.18.0
 pylibsrtp==0.10.0
 pyOpenSSL==24.1.0
-pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1709721012883/work
-pyproj @ file:///D:/bld/pyproj_1680062136625/work
-pyshp @ file:///home/conda/feedstock_root/build_artifacts/pyshp_1659002966020/work
-PySocks @ file:///D:/bld/pysocks_1661604991356/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
-pytz @ file:///C:/b/abs_6ap4tsz1ox/croot/pytz_1713974360290/work
 PyYAML==6.0.1
 referencing==0.35.1
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1717057054362/work
-requests-oauthlib==2.0.0
 rich==13.7.1
 rpds-py==0.18.1
 rsa==4.9
 scikit-learn==1.3.2
 scipy==1.10.1
 seaborn==0.13.2
-sgp4 @ file:///D:/bld/sgp4_1682616972242/work
-shapely @ file:///D:/bld/shapely_1679081750091/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-skyfield @ file:///home/conda/feedstock_root/build_artifacts/skyfield_1718286549939/work
 smmap==5.0.1
 streamlit==1.36.0
 streamlit-webrtc==0.47.7
@@ -125,12 +99,8 @@ typing_extensions==4.5.0
 tzdata==2024.1
 ultralytics==8.2.48
 ultralytics-thop==2.0.0
-unicodedata2 @ file:///D:/bld/unicodedata2_1695848058846/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1719391292974/work
 watchdog==4.0.1
 Werkzeug==3.0.3
-win-inet-pton @ file:///D:/bld/win_inet_pton_1667051142467/work
 wrapt==1.16.0
 xyzservices==2024.6.0
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1718013267051/work
 zstandard==0.23.0
