@@ -7,7 +7,6 @@ attrs==23.2.0
 av==12.2.0
 blinker==1.8.2
 branca==0.7.2
-Brotli @ file:///D:/bld/brotli-split_1695989908365/work
 cachetools==5.3.3
 Cartopy @ file:///D:/bld/cartopy_1679098205642/work
 certifi==2024.6.2
