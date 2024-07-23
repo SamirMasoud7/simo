@@ -9,12 +9,10 @@ blinker==1.8.2
 branca==0.7.2
 cachetools==5.3.3
 certifi==2024.6.2
-cffi @ file:///D:/bld/cffi_1696001727340/work
 chardet==5.2.0
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1698833585322/work
 click==8.1.7
 colorama==0.4.6
-contourpy @ file:///D:/bld/contourpy_1695554279172/work
 cryptography==42.0.8
 cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
 Cython==3.0.10
