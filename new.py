@@ -195,7 +195,7 @@ def run_prediction_model():
     st.sidebar.title('Settings')
 
     # Path to the TLE file
-    tle_file_path = 'C:/Users/Samir/sat54277.txt'
+    tle_file_path = 'sat54277.txt'
     with open(tle_file_path, 'r') as file:
         tle_lines = file.readlines()
         tle_line1 = tle_lines[0].strip()
@@ -222,8 +222,8 @@ def run_prediction_model():
     positions, velocities, times = get_satellite_positions_and_velocity(satellite, start_datetime, end_datetime, delta_t)
 
     # Paths to the CSV files
-    csv_file_path1 = 'C:/Users/Samir/C54277 future prediction using LSTM_magnitudes (1).csv'
-    csv_file_path2 = 'C:/Users/Samir/tle-54277_54277_with_magnitudes (1).csv'
+    csv_file_path1 = 'C54277 future prediction using LSTM_magnitudes (1).csv'
+    csv_file_path2 = 'tle-54277_54277_with_magnitudes (1).csv'
 
     # Read data from the files
     data1 = pd.read_csv(csv_file_path1)
