@@ -8,7 +8,6 @@ av==12.2.0
 blinker==1.8.2
 branca==0.7.2
 cachetools==5.3.3
-Cartopy @ file:///D:/bld/cartopy_1679098205642/work
 certifi==2024.6.2
 cffi @ file:///D:/bld/cffi_1696001727340/work
 chardet==5.2.0
