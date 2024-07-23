@@ -87,7 +87,6 @@ termcolor==2.4.0
 threadpoolctl==3.5.0
 toml==0.10.2
 toolz==0.12.1
-torchvision==0.18.1
 tornado==6.4.1
 tqdm==4.66.4
 typing_extensions==4.5.0
